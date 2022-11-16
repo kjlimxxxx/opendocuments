@@ -1,6 +1,6 @@
-## Time Zone Converter: Privacy policy
+## World Time Converter: Privacy policy
 
-Welcome to the Time Zone Converter app for Android!
+Welcome to the World Time Converter app for Android!
 
 As an avid Android user myself, I take privacy very seriously.
 I know how irritating it is when apps collect your data without your knowledge.
